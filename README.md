@@ -14,4 +14,5 @@ Library for logs.
 ### Prerequisites
 > - Java 17
 > - Maven latest
-> - **Default port**: 8082
+> - **Default port**: 8081
+> - Database: PostgresSQL
